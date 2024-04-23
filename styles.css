@@ -206,6 +206,8 @@ input {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        background-image: url('https://raw.githubusercontent.com/RaulTindogan/base-apparel-coming-soon-master/main/images/bg-pattern-desktop.svg');
+        background-size: cover;
     }
 
     .error-icon { 
